@@ -14,6 +14,3 @@ Subnet Pública: Configurada com auto-assign IP para acesso web.
 Roteamento: Internet Gateway e Route Table configurados manualmente.
 Segurança: Security Group liberando apenas tráfego HTTP (80).
 Compute: Instância EC2 t2.micro provisionada com script de instalação automática do Apache.
-
-Prova de Conceito:
-![Resultado Final] (Projeto VPC.png)
