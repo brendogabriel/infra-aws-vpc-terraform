@@ -17,4 +17,4 @@ Compute: Instância EC2 t2.micro provisionada com script de instalação automá
 
 📸 Prova de Conceito (PoC)
 (Aqui você coloca o seu print)
-![Resultado Final](Projeto VPC.png)
+![Resultado Final] (Projeto VPC.png)
