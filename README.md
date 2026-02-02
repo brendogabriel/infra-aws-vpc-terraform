@@ -1,6 +1,6 @@
 # Projeto: Infraestrutura Web Automatizada na AWS
 
-## 📌 Visão Geral
+## 📌 Visão Geral  
 Este projeto provisiona uma infraestrutura completa na AWS utilizando **Terraform**. O objetivo é criar um ambiente de rede seguro e isolado (VPC) para hospedar um servidor web Apache.
 
 ## 🛠 Tecnologias Utilizadas
